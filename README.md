@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hindu
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning java,c++,python,html
+- 🌱 I’m currently learning java,css,python,html
 - 💞️ I’m looking to collaborate on good companies
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
